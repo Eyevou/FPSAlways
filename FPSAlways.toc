@@ -1,0 +1,7 @@
+## Interface: 100100
+## Title: FPSAlways
+## IconTexture: Interface\AddOns\FPSAlways\icon.tga
+## Notes: Always show your FPS!
+## Author: Eyevou
+## Version: 004
+main.lua

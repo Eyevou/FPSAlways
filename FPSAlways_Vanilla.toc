@@ -1,0 +1,6 @@
+## Interface: 11403
+## Title: FPSAlways
+## Notes: Always show your FPS!
+## Author: Eyevou
+## Version: 002
+main.lua
