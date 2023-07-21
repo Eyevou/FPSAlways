@@ -4,7 +4,7 @@ f:RegisterEvent("ADDON_LOADED")
 local function FPSAlways_Frame_OnEvent(self, event, ...)		
 	if event == "ADDON_LOADED" then
 		if FPSAlways_ToggleOnce == nil then
-			FramerateFrame:Toggle()
+			ToggleFramerate() 
 			FPSAlways_ToggleOnce = 1
 		end
 	end

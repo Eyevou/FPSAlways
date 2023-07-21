@@ -3,5 +3,5 @@
 ## IconTexture: Interface\AddOns\FPSAlways\icon.tga
 ## Notes: Always show your FPS!
 ## Author: Eyevou
-## Version: 005
+## Version: 007
 main.lua
